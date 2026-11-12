@@ -4,7 +4,8 @@
 |---|---|---|---|
 | Mpho Selefo | 901020662 |  Express API, Redis integration_ | https://github.com/jayson6621/Coffee-Shop/pull/1 |
 | Tseliso Majalle | | Added Server/Database | https://github.com/jayson6621/Coffee-Shop/pull/3 |
-| _Member 3_ | | _e.g. Staff dashboard, deployment_ | |
+|Khahliso Setlai| staff Interface| https://github.com/jayson6621/Coffee-Shop/pull/5
+| Tseliso Majoro | | deployment_documentation | https://github.com/jayson6621/Coffee-Shop/pull/6|
 | _Member 4_ | | _e.g. Testing, README, screenshots_ | |
 
 ## Workflow
