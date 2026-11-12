@@ -6,7 +6,7 @@
 | Tseliso Majalle | | Added Server/Database | https://github.com/jayson6621/Coffee-Shop/pull/3 |
 |Khahliso Setlai| staff Interface| https://github.com/jayson6621/Coffee-Shop/pull/5
 | Tseliso Majoro | | deployment_documentation | https://github.com/jayson6621/Coffee-Shop/pull/6|
-| _Member 4_ | | _e.g. Testing, README, screenshots_ | |
+| Mpho Motlamelle| |  Testing |https://github.com/jayson6621/Coffee-Shop/pull/7 |
 
 ## Workflow
 - Branches: `main` (deployed), `feature/<name>` per task; merged through pull requests with at least one reviewer.
