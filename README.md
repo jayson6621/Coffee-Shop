@@ -4,6 +4,12 @@ Full-stack web app: customers browse the menu, build a cart and place orders; st
 
 **Live links (fill in after deploying)**
 - Frontend: https://coffee-shop-nu-sepia.vercel.app
+
+## Deployment
+- **Frontend:** Vercel, root directory `client`, build command `npm run build`, output directory `dist`, environment variable `VITE_API_URL` set to the Render API URL.
+- **Backend:** Render web service, root directory `server`, build command `npm install`, start command `npm start`. Environment variables: `REDIS_URL`, `JWT_SECRET`, `STAFF_USERNAME`, `STAFF_PASSWORD`, `CLIENT_ORIGIN`.
+- **Database:** Upstash Redis with persistence, connected through `REDIS_URL`.
+- **Health check:** `https://coffee-shop-api-6pak.onrender.com/api/health`
 - API: https://coffee-shop-api-6pak.onrender.com/api/health
 
 ## Technologies
