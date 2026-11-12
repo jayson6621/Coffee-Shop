@@ -2,8 +2,8 @@
 
 | Member | Student ID | Responsibilities | Key commits / pull requests |
 |---|---|---|---|
-| Mpho Selefo | 901020662 | _e.g. Express API, Redis integration_ | https://github.com/jayson6621/Coffee-Shop/pull/1 |
-| _Member 2_ | | _e.g. React customer interface_ | |
+| Mpho Selefo | 901020662 |  Express API, Redis integration_ | https://github.com/jayson6621/Coffee-Shop/pull/1 |
+| Tseliso Majalle | | Added Server/Database | https://github.com/jayson6621/Coffee-Shop/pull/3 |
 | _Member 3_ | | _e.g. Staff dashboard, deployment_ | |
 | _Member 4_ | | _e.g. Testing, README, screenshots_ | |
 
