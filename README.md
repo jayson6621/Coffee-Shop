@@ -3,8 +3,8 @@
 Full-stack web app: customers browse the menu, build a cart and place orders; staff manage the menu and move orders through Pending → Preparing → Ready → Collected.
 
 **Live links (fill in after deploying)**
-- Frontend: https://YOUR-APP.vercel.app
-- API: https://YOUR-API.onrender.com  (health check: `/api/health`)
+- Frontend: https://coffee-shop-nu-sepia.vercel.app
+- API: https://coffee-shop-api-6pak.onrender.com/api/health
 
 ## Technologies
 | Layer | Tech | Hosting |
